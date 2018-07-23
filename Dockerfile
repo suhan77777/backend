@@ -1,0 +1,1 @@
+FROM devicehive/devicehive-backend:3.5.0
